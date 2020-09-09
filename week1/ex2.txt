@@ -1,0 +1,39 @@
+    1  mkdir ~/week1
+    2  cd week1
+    3  hostname
+    4  whoami
+    5  man <whoani>
+    6  man <whoami>
+    7  man whoami
+    8  man man
+    9  man whoami
+   10  man man
+   11  man --h
+   12  man --help
+   13  q
+   14  less
+   15  ls /usr/bin
+   16  ls /usr/bin | sort -r | grep "gcc"
+   17  ls /usr/bin | sort -r |
+   18  ls /usr/bin | sort -r
+   19  ls /usr/bin
+   20  sudo apt update
+   21  sudo apt install build-essential
+   22  sudo apt-get install manpages-dev
+   23  gcc --version
+   24  ls /usr/bin | sort -r | grep "gcc"
+   25  nano ex0003.sh
+   26  sh ex0003.sh
+   27  vim ~/week1/main.c
+   28  sudo apt install vim
+   29  vim ~/week1/main.c
+   30  gcc main.c -o ex4
+   31  ./ex4
+   32  usr/bin | grep "gcc" |sort -r > ~/ week1/> ~/week1/ex1.txt
+   33  ls ~/usr/bin | grep "gcc" |sort -r > ~/ week1/> ~/week1/ex1.txt
+   34  ls ~/usr/bin | grep "gcc" |sort -r > ~/week1/ex1.txt
+   35  ls /usr/bin | grep "gcc" |sort -r > ~/week1/ex1.txt
+   36  pwd
+   37  ls
+   38  nano ex1.txt
+   39  history >~/week1/ex2.txt
