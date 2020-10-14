@@ -62,7 +62,7 @@ int main(int argc, char *argv[]){
 				}
 				candidate = i_oldest;
 			}
-			printf("%d\n", candidate);
+//			printf("%d\n", candidate);
 			pages[candidate] = current;
 			age[candidate] = 2<<8;
 			misses++;

@@ -1,0 +1,7 @@
+In week9 folder I have put 2 txt files that can be used as input to the program ex1.
+The ratio_increased.txt should produce hit/miss ratio 999/1, because there is a same page that is accessed, which is loaded once and then nothing else will be loaded.
+The ratio_decreased.txt should produce hit/miss ratio 0/1000, because all pages that are accessed are unique and should be loaded anyway.
+
+
+In general to have a greater hit/miss ratio there should be more repeating pages, preferably close to each other.
+
