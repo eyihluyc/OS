@@ -40,7 +40,6 @@ int main(){
 	}
 	(void) closedir(dir);
 
-	FILE *fp = fopen("ex4.txt", "w");	
 	for (int i=0; i<n; i++){
 		if (counter[i] > 1){
 			for (int j=0; j<counter[i]; j++){
