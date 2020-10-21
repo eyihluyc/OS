@@ -38,7 +38,6 @@ int main(){
 		counter[i]++;
 		
 	}
-	(void) closedir(dir);
 
 	for (int i=0; i<n; i++){
 		if (counter[i] > 1){
@@ -49,5 +48,6 @@ int main(){
 		}
 
 	}
+	(void) closedir(dir);
 	return 0;
 }
